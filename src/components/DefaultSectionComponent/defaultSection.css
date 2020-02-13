@@ -1,0 +1,17 @@
+.default_section {
+    width: 100vw;
+    height: auto;
+    padding-bottom: 5%;
+    background-color: #556476;
+}
+
+.default_section_header {
+    color: white;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.default_section_para {
+    font-size: 14px;
+}

@@ -1,0 +1,26 @@
+.twitter_section {
+    background-color: #0EE1E8;
+    width: 100vw;
+    height: auto;
+    padding-bottom: 2%;
+}
+
+.twitter_heading {
+    font-size: 35px;
+    letter-spacing: 3px;
+    color: white;
+    font-weight: 300;
+    width: 60px;
+    border-bottom: 2px solid white;
+}
+
+.twitter_logo {
+    width: 30px;
+    height: 30px;
+}
+
+.cheeseCake {
+    color: white;
+    font-weight: 600;
+    margin: 5px;
+}

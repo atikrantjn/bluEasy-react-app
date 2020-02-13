@@ -1,0 +1,61 @@
+.active {
+    border: 1px solid rgba(50, 228, 213, 0.486);
+}
+
+.nav-item {
+    margin: 0 1rem;
+}
+
+.nav-item:hover {
+    border: 1px solid rgba(50, 228, 213, 0.486);
+}
+
+.bg-dark {
+    background-color: rgb(52, 58, 64, 0.6)!important;
+}
+
+.first-div {
+    height: 100vh;
+    background-image: url('../../images/hero_slider.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-nav a {
+    color: white;
+}
+
+.main-text {
+    text-align: center;
+    padding: 20% 0;
+}
+
+.header_text1 {
+    background: rgb(63, 63, 63);
+    ;
+    color: white;
+    font-size: 2rem;
+    width: 50%;
+    margin: 0 auto 3% auto;
+    padding: 10px 0;
+}
+
+.header_text2 {
+    background: rgb(63, 63, 63);
+    color: white;
+    font-size: 2rem;
+    width: 70%;
+    margin: 0 auto 3% auto;
+    padding: 10px 0;
+}
+
+.brand_header {
+    color: white;
+    font-size: 25px;
+    padding-left: 5px;
+}
+
+.E_span {
+    color: #4BE1DE;
+}

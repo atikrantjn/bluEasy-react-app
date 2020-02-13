@@ -1,0 +1,22 @@
+.footer_section {
+    background-color: #3C404B;
+    height: auto
+}
+
+.footer_list ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer_list ul li {
+    padding: 0 1rem
+}
+
+.footer_links {
+    color: black
+}
+
+.vertical_line {
+    border-left: 2px solid white;
+    height: 25px;
+}

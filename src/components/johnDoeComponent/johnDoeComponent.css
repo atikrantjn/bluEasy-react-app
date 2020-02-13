@@ -1,0 +1,33 @@
+.john_doe_section {
+    background-image: url('../../images/holder.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+.bottom_line {
+    width: 50px;
+    margin-top: -10px;
+    height: 20px;
+    border-top: 2px solid white;
+}
+
+.name_header {
+    color: white;
+    font-size: 35px;
+    font-weight: 200;
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+
+.johndoe_para {
+    color: white
+}
+
+.john_doe_icons {
+    font-size: 40px;
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+}

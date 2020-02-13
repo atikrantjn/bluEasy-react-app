@@ -1,0 +1,50 @@
+.contact_us_heading {
+    text-transform: uppercase;
+    font-weight: 300;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 38px;
+}
+
+.bottom_line_contact {
+    width: 60px;
+    margin-top: -10px;
+    height: 20px;
+    border-top: 2px solid white;
+}
+
+.contact_us_section {
+    background-image: url('../../images/bg-holder.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+.transparent-input {
+    background-color: rgba(0, 0, 0, 0) !important;
+    color: white !important;
+}
+
+.contact_para {
+    color: white;
+    font-size: 15px;
+}
+
+.contact_us_label {
+    color: white
+}
+
+.message_btn {
+    background-color: #43F9FF;
+}
+
+.message_btn:hover {
+    background-color: #43F9FF !important;
+}
+
+@media screen and (max-width: 992px) {
+    .contact_para {
+        display: none;
+    }
+}
